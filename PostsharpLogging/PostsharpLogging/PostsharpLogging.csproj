@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PostSharp.Patterns.Diagnostics" Version="6.8.8" />
+    <PackageReference Include="PostSharp.Patterns.Diagnostics.Microsoft" Version="6.8.8" />
+  </ItemGroup>
+
+
+</Project>
